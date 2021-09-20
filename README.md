@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jayantaadhikary
 - 👀 I’m interested in New technologies and frameworks.
 - 🌱 I’m currently learning JavaScript and Python.
-- 💞️ I’m looking to collaborate on Flutter, Front-end web projects.
+- 💞️ I’m looking to collaborate on Front-end web projects.
 - 📫 Reach me through LinkedIn - https://www.linkedin.com/in/jayanta-adhikary/
 
 <!---

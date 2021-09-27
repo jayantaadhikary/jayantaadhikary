@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayantaadhikary
 - 👀 I’m interested in New technologies and frameworks.
-- 🌱 I’m currently learning JavaScript and Python.
+- 🌱 I’m currently learning Front-end Web Developement. 
 - 💞️ I’m looking to collaborate on Front-end web projects.
 - 📫 Reach me through LinkedIn - https://www.linkedin.com/in/jayanta-adhikary/
 

@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Front-end Web Developement. 
 - 💞️ I’m looking to collaborate on Front-end web projects.
 - 📫 Reach me through LinkedIn - https://www.linkedin.com/in/jayanta-adhikary/
-- 📫 You can also visit my portfolio - https://jayantaadhikary.me
 
 <!---
 jayantaadhikary/jayantaadhikary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

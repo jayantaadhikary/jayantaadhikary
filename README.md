@@ -4,7 +4,7 @@
 	1. JavaScript
 	2. ReactJS
 	3. Data Structures & Algorithms
-	4. Golang, C#
+	4. Golang
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/jayanta-adhikary/) or email me at jayantaadhikary@protonmail.com
 <!---

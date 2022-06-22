@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/jayanta-adhikary/) or email me at jayantaadhikary@protonmail.com
 
-
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -24,6 +24,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" **alt="Cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;	 	
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jayantaadhikary&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayantaadhikary&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---

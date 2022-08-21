@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jayantaadhikary
+- 👋 Hi, I’m @jayantaadhikary, a 3rd year university student pursuing Information Technology Engineering (BTech IT) in Sikkim Manipal Institute of Technology.
 - 👀 I’m interested in Web Technologies and frameworks.
 - 🌱 I’m currently learning-
 	1. JavaScript

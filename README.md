@@ -2,9 +2,9 @@
 - 👀 I’m interested in Web Technologies and frameworks.
 - 🌱 I’m currently learning-
 	1. JavaScript
-	2. ReactJS
+	2. ReactJS & NextJS
 	3. Data Structures & Algorithms
-	4. Golang
+	4. Python
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/jayanta-adhikary/) or email me at jayantaadhikary@protonmail.com
 

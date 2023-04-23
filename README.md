@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/jayanta-adhikary/) or email me at jayantaadhikary@protonmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayantaadhikary&label=Profile%20views&color=4fb589&style=flat" alt="jayantaadhikary" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jayantaadhikary&label=Profile%20views&color=4fb589&style=flat" alt="jayantaadhikary" /> </p>
 
 ---
 

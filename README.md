@@ -24,7 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayantaadhikary&show_icons=true&theme=nightowl&locale=en&layout=compact" alt="jayantaadhikary" /></p>
 
-### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jayantaadhikary&theme=nightowl)](https://git.io/streak-stats)
 
 

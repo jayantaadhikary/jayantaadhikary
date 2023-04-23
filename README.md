@@ -10,6 +10,14 @@
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayantaadhikary&label=Profile%20views&color=4fb589&style=flat" alt="jayantaadhikary" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayantaadhikary" alt="jayantaadhikary" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/jayadky" target="blank"><img src="https://img.shields.io/twitter/follow/jayadky?logo=twitter&style=for-the-badge" alt="jayadky" /></a> </p>
+
+---
+
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jayantaadhikary&theme=nightowl)](https://git.io/streak-stats)
 

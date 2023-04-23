@@ -22,9 +22,9 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayantaadhikary&show_icons=true&theme=nightowl&locale=en&layout=compact" alt="jayantaadhikary" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayantaadhikary&show_icons=true&theme=nightowl&locale=en&layout=compact" alt="jayantaadhikary" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayantaadhikary&show_icons=true&theme=nightowl&locale=en" alt="jayantaadhikary" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jayantaadhikary&show_icons=true&theme=nightowl&locale=en" alt="jayantaadhikary" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayantaadhikary&theme=nightowl" alt="jayantaadhikary" /></p>
 

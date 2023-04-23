@@ -1,3 +1,6 @@
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jayantaadhikary&label=Profile%20views&color=4fb589&style=flat" alt="jayantaadhikary" /> </p>
+
 - 👋 Hi, I’m @jayantaadhikary, a 3rd year university student pursuing Information Technology Engineering (BTech IT) in Sikkim Manipal Institute of Technology.
 - 👀 I’m interested in Web Technologies and frameworks.
 - 🌱 I’m currently learning-
@@ -7,8 +10,6 @@
 	4. Python
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/jayanta-adhikary/) or email me at jayantaadhikary@protonmail.com
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jayantaadhikary&label=Profile%20views&color=4fb589&style=flat" alt="jayantaadhikary" /> </p>
 
 ---
 

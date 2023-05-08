@@ -9,7 +9,6 @@
 	3. Data Structures & Algorithms
 	4. Python
 - 💻 Currently building [TheStoicMonk](https://github.com/jayantaadhikary/TheStoicMonk)
-- 💞️ I’m looking to collaborate on web development projects.
 - 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/jayanta-adhikary/) or email me at jayantaadhikary@protonmail.com
 
 ---

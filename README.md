@@ -8,8 +8,9 @@
 - 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/jayanta-adhikary/) or email me at jayantaadhikary@protonmail.com
 
 ---
-
+<!---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayantaadhikary&show_icons=true&theme=nightowl&locale=en" alt="jayantaadhikary" /></p>
+--->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayantaadhikary&theme=nightowl" alt="jayantaadhikary" /></p>
 

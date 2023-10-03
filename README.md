@@ -9,12 +9,14 @@
 
 ---
 
+<!---
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jayantaadhikary&show_icons=true&theme=nightowl&locale=en)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayantaadhikary&theme=nightowl)
 
 [![@jayantaadhikary's Holopin board](https://holopin.me/jayantaadhikary)](https://holopin.io/@jayantaadhikary)
 
+--->
 
 
 

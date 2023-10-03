@@ -11,6 +11,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayantaadhikary&show_icons=true&theme=nightowl&locale=en" alt="jayantaadhikary" /></p>
 
+- Most used Language stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayantaadhikary&theme=nightowl)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayantaadhikary&theme=nightowl" alt="jayantaadhikary" /></p>
 

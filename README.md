@@ -7,6 +7,9 @@
 - 💻 Building [TheStoicMonk](https://github.com/jayantaadhikary/TheStoicMonk)
 - 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/jayanta-adhikary/) or email me at jayantaadhikary@protonmail.com
 
+#### Check out my latest article -
+[React Native vs Flutter](https://dev.to/jayantaadhikary/react-native-vs-flutter-my-opinion-770)
+
 ---
 
 <!---

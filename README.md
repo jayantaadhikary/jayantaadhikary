@@ -13,10 +13,12 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jayantaadhikary&theme=tokyonight)]()
+
 
 <!---
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jayantaadhikary&show_icons=true&theme=nightowl&locale=en)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jayantaadhikary&theme=tokyonight)]()
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayantaadhikary&theme=nightowl)
 

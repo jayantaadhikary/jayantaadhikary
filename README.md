@@ -13,6 +13,8 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jayantaadhikary&theme=tokyonight)]()
+
 <!---
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jayantaadhikary&show_icons=true&theme=nightowl&locale=en)
 

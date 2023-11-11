@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @jayantaadhikary, a final year university student pursuing Information Technology Engineering (BTech IT) at Sikkim Manipal Institute of Technology.
 - 👀 I’m interested in Web and App Technologies.
 - 🌱 I’m currently learning iOS Development (SwiftUI), React Native and TypeScript.
-- 💻 Building [TheStoicMonk](https://github.com/jayantaadhikary/TheStoicMonk)
+- 💻 Building [VacaWise](https://github.com/jayantaadhikary/VacaWise)
 - 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/jayanta-adhikary/) or email me at jayantaadhikary@protonmail.com
 
 #### Check out my latest articles

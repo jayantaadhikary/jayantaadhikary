@@ -1,7 +1,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jayantaadhikary&label=Profile%20views&color=4fb589&style=flat" alt="jayantaadhikary" /> </p>
 
-- 👋 Hi, I’m @jayantaadhikary, a final year university student pursuing Information Technology Engineering (BTech IT) at Sikkim Manipal Institute of Technology.
+- 👋 Hi, I’m @jayantaadhikary, a final year university student pursuing Information Technology Engineering (BTech IT).
 - 👀 I’m interested in Web & App technologies. 
 - 🌱 I’m learning NextJS, React Native, TypeScript & Golang.
 - 💻 Building [VacaWise](https://github.com/jayantaadhikary/VacaWise)

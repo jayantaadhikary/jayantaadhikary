@@ -8,6 +8,7 @@
 - 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/jayanta-adhikary/) or email me at jayantaadhikary@protonmail.com
 
 #### Check out my latest articles
+- [Using the Ollama API to run LLMs and generate responses locally](https://dev.to/jayantaadhikary/using-the-ollama-api-to-run-llms-and-generate-responses-locally-18b7)
 - [React Native vs Flutter](https://dev.to/jayantaadhikary/react-native-vs-flutter-my-opinion-770)
 - [Why I like Vim](https://dev.to/jayantaadhikary/why-i-like-using-vim-40mi)
 

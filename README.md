@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @jayantaadhikary, a final year university student pursuing Information Technology Engineering (BTech IT).
 - 👀 I’m interested in Web & App technologies. 
-- 🌱 I’m learning NextJS, React Native, TypeScript & Golang.
+- 🌱 I use React Native, NextJS, TypeScript & SwiftUI for most of my projects.
 - 🧑‍💻 Currently building [TheStoicMonk](https://github.com/jayantaadhikary/TheStoicMonk)
 - 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/jayanta-adhikary/) or email me at jayantaadhikary@protonmail.com
 

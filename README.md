@@ -1,7 +1,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jayantaadhikary&label=Profile%20views&color=4fb589&style=flat" alt="jayantaadhikary" /> </p>
 
-- 👋 Hi, I’m @jayantaadhikary, a final year university student pursuing Information Technology Engineering (BTech IT).
+- 👋 Hi, I’m @jayantaadhikary, an Information Technology Engineering (B.Tech IT) graduate working as a Technology Consultant.
 - 👀 I’m interested in Web & App technologies. 
 - 🌱 I use React Native, NextJS, TypeScript & SwiftUI for most of my projects.
 - 🧑‍💻 Currently building [TheStoicMonk](https://thestoicmonk.xyz)

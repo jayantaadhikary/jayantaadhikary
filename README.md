@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @jayantaadhikary, an Information Technology Engineering graduate working as a Technology Consultant.
 - 👀 I’m interested in Web & App technologies. 
 - 🌱 I use React Native, NextJS, TypeScript & SwiftUI for most of my projects.
-- 🧑‍💻 Currently building [TheStoicMonk](https://thestoicmonk.xyz)
+- 🧑‍💻 Check out my app! [TheStoicMonk](https://thestoicmonk.xyz) (Out on Play Store!)
 - 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/jayanta-adhikary/) or email me at jayantaadhikary@protonmail.com
 
 #### Check out my latest articles

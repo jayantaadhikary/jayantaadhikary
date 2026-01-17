@@ -4,13 +4,13 @@
 - 👋 Hi, I’m @jayantaadhikary, an Information Technology Engineering graduate working as a Technology Consultant.
 - 👀 I’m interested in Web & App technologies. 
 - 🌱 I use React Native, NextJS, TypeScript & SwiftUI for most of my projects.
-- 🧑‍💻 Check out my app! [TheStoicMonk](https://thestoicmonk.xyz) (Out on Play Store!)
+- 🧑‍💻 Check out my apps at [Apple App Store](https://apps.apple.com/us/developer/jayanta-adhikary/id1825354014)
 - 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/jayanta-adhikary/) or email me at jayantaadhikary@protonmail.com
 
 #### Check out my latest articles
 - [Using the Ollama API to run LLMs and generate responses locally](https://builtin.com/articles/ollama-api)
 - [React Native vs Flutter](https://dev.to/jayantaadhikary/react-native-vs-flutter-my-opinion-770)
-- [Why I like Vim](https://dev.to/jayantaadhikary/why-i-like-using-vim-40mi)
+- [Lessons from Shipping Moniqa](https://www.jayantaadhikary.in/notes/building-calm-moniqa)
 
 ---
 
